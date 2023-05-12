@@ -3,7 +3,7 @@ var-name = [ "Apdex-1(Low)","Apdex-2(Low)" ]
 
 application_name="nidhi"
 
-account_id="3931788"
+account_id = 3931788
 
 incident_preference = "PER_POLICY"
 
